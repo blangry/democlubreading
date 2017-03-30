@@ -3,3 +3,4 @@
 * Why democracy doesn't need another app, https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597  
 * Tom Scott e-voting video, https://youtu.be/w3_0x6oaDmI  
 * User need is "because democracy", http://blog.memespring.co.uk/2015/09/14/product-land-part-3/  
+* The Strange Death of Municipal England, https://www.lrb.co.uk/v38/n24/tom-crewe/the-strange-death-of-municipal-england
