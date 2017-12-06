@@ -12,3 +12,4 @@
 * [Put Globalization to Work for Democracies](https://mobile.nytimes.com/2016/09/18/opinion/sunday/put-globalization-to-work-for-democracies.html)
 * [Why elections are bad for democracy](https://www.theguardian.com/politics/2016/jun/29/why-elections-are-bad-for-democracy)
 * [Building a civic tech sector to last](https://medium.com/positive-returns/building-a-civic-tech-sector-to-last-e835a9031585)
+* [Scaling Civic Tech (Knight Foundation)](https://knightfoundation.org/features/civictechbiz) — everything you should know if you want to be more than a hobbyist. Joe took some notes, which you can see [here](https://docs.google.com/document/d/1ttBj_H1No7t5TAP-BBH6s-_wKyfH01o4NJSWTFpAHZs/edit).
