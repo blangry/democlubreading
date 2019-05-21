@@ -13,3 +13,10 @@
 * [Why elections are bad for democracy](https://www.theguardian.com/politics/2016/jun/29/why-elections-are-bad-for-democracy)
 * [Building a civic tech sector to last](https://medium.com/positive-returns/building-a-civic-tech-sector-to-last-e835a9031585)
 * [Scaling Civic Tech (Knight Foundation)](https://knightfoundation.org/features/civictechbiz) — everything you should know if you want to be more than a hobbyist. Joe took some notes, which you can see [here](https://docs.google.com/document/d/1ttBj_H1No7t5TAP-BBH6s-_wKyfH01o4NJSWTFpAHZs/edit).
+
+
+## Voter Advice Applications
+
+* [Who should I vote for? There’s (not) an app for that.](https://medium.com/@abance/who-should-i-vote-for-there-s-not-an-app-for-that-88cf46532583) – Why voter advice apps like VoteMatch and Vote for Policies mislead voters.
+
+* [“I find politics inaccessible”: User testing voter advice apps](https://www.flourish.org/2015/04/i-find-politics-inaccessible-user-testing-voter-advice-apps/)
